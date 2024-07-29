@@ -11,26 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Engineering in Computer Engineering, University of Illinois Urbana-Champaign 2025 (expected)
+* Bachelor of Engineering in Electronic and Computer Engineering, Zhejiang University 2025 (expected)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -41,24 +24,25 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Academic English
+-- Passed the CET-4 examination and achieved a TOEFL score of 106.\\
+-- Major courses conducted entirely in English with specialized training in academic writing.\\
+-- Semester of exchange study experience in the United States, enabling fluent communication and work in English.\\
+
+* Artificial Intelligence Research
+-- Skilled in research about zero-shot/few-shot learning, multi-modal models, and text-to-image generation\\
+-- Participated in multiple AI research programs, proficient in using the PyTorch\\
+-- Capable to conduct research programs independently\\
+
+* Software Development
+-- Completed core courses in machine learning, computer systems, data structures, algorithms\\
+-- Proficient in programming with Python, C++, C, MySQL, Node.js, and HTML\\
+
+* Hardware Development
+-- Experienced in designing and prototyping electronic circuits for sensor interfacing and signal conditioning\\
+-- Adept at using hardware development tools such as Quartus for synthesizing and debugging FPGA designs\\ 
+
+* Photograph
+-- Signed contributor for Visual China Group (VCG), proficient in documentary and landscape photography\\
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
