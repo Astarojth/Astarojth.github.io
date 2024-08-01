@@ -1,8 +1,8 @@
 ---
-title: "VersusDebias: Universal Zero-Shot Debiasing for Text-to-Image Models via SLM-Based Prompt Engineering and Generative Adversary"
+title: "BIGbench: A Unified Benchmark for Social Bias in Text-to-Image Generative Models Based on Multi-modal LLM"
 collection: publications
-permalink: https://arxiv.org/pdf/2407.19524
-date: 2024/7/28
+permalink: https://arxiv.org/pdf/2407.15240
+date: 2024/7/21
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.s
