@@ -12,5 +12,4 @@ Hello! I am currently a senior student in ZJU-UIUC Institute and will be a Bache
 
 Research Interests
 ======
-My research interests are mainly in AIGC, particularly text-to-image models, multi-modal models, and trustworthy. Currently, I am working on using LLM to reduce bias in text-to-image models for specific social groups and predicting polymer physical and electrochemical properties with multi-modal LLMs.
-
+My research interests are mainly in AI ethic and AIGC, iucluding text-to-image models, multi-modal models, trustworthy AI, and application of LLMs.
