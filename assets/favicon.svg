@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HL favicon">
+  <rect x="6" y="6" width="52" height="52" rx="12" fill="#1f57d6" />
+  <text
+    x="50%"
+    y="52%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-size="23"
+    font-family="Arial, sans-serif"
+    font-weight="700"
+    letter-spacing="0.5"
+    fill="#ffffff"
+  >
+    HL
+  </text>
+</svg>
