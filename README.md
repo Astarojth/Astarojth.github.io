@@ -8,6 +8,8 @@ A clean academic one-page template for **Hanjun Luo**.
 - `styles.css`: visual style and responsive layout
 - `script.js`: reveal animation, nav active state, dynamic year
 - `assets/favicon.svg`: custom site icon
+- `material/CV_hanjun_luo.tex`: CV source file
+- `material/CV_hanjun_luo.pdf`: CV download file
 
 ## Quick Start
 Open `index.html` directly in a browser.
@@ -24,6 +26,6 @@ Then visit `http://localhost:8000`.
 - Publications and insights: `#publications` section in `index.html`
 - Full publication list: `#publist` section in `publications.html`
 - Headshot image: `assets/hanjun-headshot-sq.jpeg`
-- CV file: `assets/CV_hanjun_luo.pdf`
+- CV file: `material/CV_hanjun_luo.pdf`
 - GitHub link: `https://github.com/Astarojth` in `index.html` and `publications.html`
 - Theme colors/fonts: CSS variables at the top of `styles.css`
